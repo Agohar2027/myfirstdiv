@@ -1,0 +1,60 @@
+.box1 {
+    border: 5px solid green;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    background-color: rgb(252, 162, 152);
+    box-shadow: 30px 25px 5px;
+}
+
+
+h1{
+    color: cornflowerblue;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.text{
+    font-size: 20px;
+
+}
+
+#P1{
+    color: whitesmoke;
+}
+
+#P2{
+    color: rgb(255, 255, 51);
+    line-height: 40px;
+}
+
+
+#b2{
+    border: 2px solid blue;
+    background-color: blueviolet;
+    width: 800px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 30px 25px 5px;
+}
+
+.image1{
+size: 200px;
+}
+
+.subBox{
+    width: 100px;
+    background-color: goldenrod;
+    color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 8px;
+
+}
